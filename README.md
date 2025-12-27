@@ -11,7 +11,7 @@
 - 🖥️ Web development
 
 ## 💿 Tech Stack
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=young-52&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=css,html"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=young-52&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=css,html"/></a>
 
 ### Languages
 ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
