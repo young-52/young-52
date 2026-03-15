@@ -2,13 +2,12 @@
 - **PARK**, Junyoung
 - Undergrad, Seoul National University
   - Studying [Linguistics](https://linguist.snu.ac.kr) & [Computer Science](https://cse.snu.ac.kr)
-  - Maybe graduate in Feb 2028
 
 ## 📚 Interests
 - 🌲 Natural languages and programming languages
 - 🚸 Human-computer/AI interaction
 - ☯️ Functional programming
-- 🖥️ Web development
+- 🖥️ Web frontend development
 
 ## 💿 Tech Stack
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=young-52&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=css,html"/></a>
@@ -22,3 +21,4 @@
 
 ### Libraries & co.
 ![React](https://img.shields.io/badge/react-222222?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
