@@ -7,7 +7,7 @@
 ## 📚 Interests
 
 - 🌲 Natural languages and programming languages
-- 🚸 Human-computer/AI interaction
+- 🚸 Human-computer interaction
 - ☯️ Functional programming
 - 🖥️ Web frontend development
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=young-52&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=html,css,mdx,jupyter%20notebook&exclude_repo=gichan-formant)](https://github.com/anuraghazra/github-readme-stats)
+[![My top languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=young-52&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=8&hide=html,css,mdx,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 [![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org)
 [![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)](https://www.latex-project.org)
